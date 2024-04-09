@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>2024 | Ritika Hotwani</copyright>
-    <lastBuildDate>Fri, 05 Apr 2024 21:57:15 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 13:28:26 +0530</lastBuildDate>
     <atom:link href="https://blog.ritikahotwani.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning Introduction</title>
+      <link>https://blog.ritikahotwani.com/posts/machine-learning-introduction/</link>
+      <pubDate>Tue, 09 Apr 2024 13:28:26 +0530</pubDate>
+      <guid>https://blog.ritikahotwani.com/posts/machine-learning-introduction/</guid>
+      <description>IntroductionMachine learning is a fascinating field at the intersection of computer science and statistics, where computers are trained to learn from data and make decisions.&#xA;In this introductory blog, we&amp;rsquo;ll explore the basics of machine learning, its differences from deep learning and artificial intelligence, essential programming languages and libraries, and dive into some fundamental concepts and models.&#xA;What is Machine Learning( ML )Machine learning is a subset of artificial intelligence that focuses on the development of algorithms that allow computers to learn from and make predictions or decisions based on data.</description>
+    </item>
     <item>
       <title>Everything you need to know about Java System.out.println()</title>
       <link>https://blog.ritikahotwani.com/posts/sout/</link>
